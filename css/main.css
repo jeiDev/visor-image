@@ -1,0 +1,24 @@
+*{margin: 0;padding: 0;}
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-start;
+}
+
+.content-img{
+    position: relative;
+    margin: 50px;
+    background: green;
+}
+
+.content-img>canvas{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.paint{
+    margin-top: 50px;
+}
