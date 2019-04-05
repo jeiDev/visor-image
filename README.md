@@ -1,4 +1,4 @@
-# visor-image
+# Visor Image
 
 ##### Download the repository.
 
